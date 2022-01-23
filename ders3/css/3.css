@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.one{
+    text-align: center;
+    background-size: cover;
+    padding: 18rem;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    
+}
+.one a{
+    background-color:#1D809F;
+    border-radius: 4px;
+    border: 1px solid #1D809F;
+    text-decoration: none;
+    color: #fff;
+    padding:20px 40px 20px;
+
+}
+.one h1{
+    font-size: 4rem;
+    padding-bottom: 20px;
+    color:#212529
+}
+.one h3{
+    font-size: 25px;
+    color: #212529;
+    padding-bottom: 40px;
+}
+.two{
+    margin-top: 100px;
+}
+.two h2{
+    font-size:2rem;
+    color:#212529;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+.two p{
+    color: #212529;
+    font-size: 20px;
+    padding-bottom: 3rem;
+    text-align: center;
+    margin: 8px 0px 55px;
+    
+}
+.button a{
+    background-color: #212529;
+    border-radius: 4px;
+    border: 1px solid #212529;
+    text-decoration: none;
+    color: #fff;
+    padding:20px 40px;
+    text-align: center;
+
+}
+.button{
+    text-align: center;
+    background-size: cover;
+    margin-bottom: 10rem;
+    margin-top: 5rem;
+}
+.third h2{
+    text-align: center;
+    color:#212529;
+    font-size:3.5rem;
+    font-weight:-700;
+    padding:55px;
+
+}
+.button2{
+    text-align:center;
+}
+.button2 a{
+    background-color:#1D809F;
+    border-radius: 4px;
+    border: 1px solid #1D809F;
+    text-decoration: none;
+    color: #fff;
+    padding:20px 40px 20px;
+}
+.fourth{
+    background-color:#1D809F;
+    text-align:center;
+    padding: 10rem;
+    margin-top:55px;
+
+
+}
+.fourth h2{
+    color:white;
+    font-weight: 700px;
+    text-decoration:none;
+    margin-bottom:42px;
+}
+.fourth .button2{
+    color:#212529;
+    background-color:white;
+    border-radius:4px;
+    border:1px solid white;
+    padding:20px 40px;
+    text-decoration:none;
+}
+.fourth .button1{
+    color:white;
+    background-color:#212529;
+    border-radius:4px;
+    border:1px solid #212529;
+    padding:20px 40px;
+    text-decoration:none;
+}
+
